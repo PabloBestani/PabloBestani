@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DescuentosYa!**
 
-- 🌱 I’m currently learning **NextJS and Tailwind**
+- 🌱 I’m currently learning **NextJS and NestJS**
 
 - 📫 How to reach me **pablobestanimouk@gmail.com**
 
